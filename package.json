@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@azure/cognitiveservices-face": "^5.0.0",
+    "@azure/ms-rest-js": "^2.6.1",
+    "cors": "^2.8.5",
+    "uuid": "^8.3.2"
+  }
+}
